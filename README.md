@@ -1,4 +1,4 @@
-<h1 align="center">Hello Developers! 👋</h1>
+<h1 align="center" style="color: red">Hello Developers! 👋</h1>
 
 <h3 align="center">
   I am <b>Ernie Jeash</b>, currently working as a full stack developer at a
