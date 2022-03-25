@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ernie Jeash</h1>
-<h3 align="center">A 24-year-old Software Developer based in Cebu, Philippines. Web enthusiast. Enjoys creating web applications from frontend to backend until deployment.</h3>
+
+<h3 align="center">
+Hello Developers!
+<br>
+I am Ernie Jeash, currently working as a full stack developer at a company in Cebu. My main specific expertise is Vue and Node, overall, javascript 😀
+<br>
+Apart from programming, I love to read manga and novels, sometimes do a bit of exercise. Casual Gamer and an introvert 🙂
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmablackshaw&label=Profile%20views&color=0e75b6&style=flat" alt="karmablackshaw" /> </p>
 
