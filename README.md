@@ -1,7 +1,7 @@
-<h1 align="center" style="color: red">Hello Developers! 👋</h1>
+<h1 align="center" style="color: red">Hello Developers! I am Ernie Jeash 👋</h1>
 
 <h3 align="center">
-  I am <b>Ernie Jeash</b>, currently working as a full stack developer at a
+  Currently working as a full stack developer at a
   company in Cebu. My main specific expertise is Vue and Node, overall,
   javascript 😀 <br /><br />
   Apart from programming, I love to read manga and novels, sometimes do a bit of
@@ -66,6 +66,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -74,6 +75,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -82,6 +84,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -94,6 +97,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -102,6 +106,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -110,6 +115,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -118,6 +124,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -126,6 +133,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -134,6 +142,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -142,6 +151,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -150,6 +160,7 @@ about **Vue, Node, and MySQL** - 📫 How to reach me **irenesejah29@gmail.com**
       height="40"
     />
   </a>
+  &nbsp;
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
     <img
       src="https://bestofjs.org/logos/vuetify.svg"
