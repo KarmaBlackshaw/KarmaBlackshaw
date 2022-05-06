@@ -3,17 +3,40 @@
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=karmablackshaw&label=Profile+Views&color=orange&style=flat"
-    alt="karmablackshaw"
+    alt="Profile+Views"
   />
   <img
     src="https://img.shields.io/github/followers/karmablackshaw?label=Follow"
-    alt="karmablackshaw"
+    alt="followers"
   />
   <img
     src="https://wakatime.com/badge/user/fade7dc5-4fa9-4730-997c-07adf3808d8f.svg?style=flat"
-    alt="karmablackshaw"
+    alt="wakatime"
   />
-  
+  <img
+    src="https://badges.pufler.dev/visits/karmablackshaw/KarmaBlackshaw"
+    alt="visits"
+  />
+  <img
+    src="https://badges.pufler.dev/years/karmablackshaw"
+    alt="visits"
+  />
+  <img
+    src="https://badges.pufler.dev/repos/karmablackshaw"
+    alt="visits"
+  />
+  <img
+    src="https://badges.pufler.dev/gists/karmablackshaw"
+    alt="visits"
+  />
+  <img
+    src="https://img.shields.io/github/last-commit/karmablackshaw/KarmaBlackshaw"
+    alt="last-commit"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/m/karmablackshaw/KarmaBlackshaw?color=yellow&label=Commit%20Activity"
+    alt="visits"
+  />
 </p>
 
 
