@@ -182,7 +182,7 @@
   &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://cdn.svgporn.com/logos/linux-tux.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -227,7 +227,7 @@
   &nbsp;
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      src="https://cdn.svgporn.com/logos/sass.svg"
       alt="sass"
       width="40"
       height="40"
@@ -245,7 +245,7 @@
   &nbsp;
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
     <img
-      src="https://bestofjs.org/logos/vuetify.svg"
+      src="https://cdn.svgporn.com/logos/vuetifyjs.svg"
       alt="vuetify"
       width="40"
       height="40"
