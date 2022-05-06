@@ -64,6 +64,12 @@
       alt="karmablackshaw"
     />
   </a>
+  <a href="https://github.com/karmablackshaw/jeje-generator">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=jeje-generator&show_owner=true&v=2"
+      alt="karmablackshaw"
+    />
+  </a>
 </p>
 
 <p>
