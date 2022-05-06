@@ -14,19 +14,7 @@
     alt="wakatime"
   />
   <img
-    src="https://badges.pufler.dev/visits/karmablackshaw/KarmaBlackshaw"
-    alt="visits"
-  />
-  <img
-    src="https://badges.pufler.dev/years/karmablackshaw"
-    alt="visits"
-  />
-  <img
     src="https://badges.pufler.dev/repos/karmablackshaw"
-    alt="visits"
-  />
-  <img
-    src="https://badges.pufler.dev/gists/karmablackshaw"
     alt="visits"
   />
   <img
