@@ -82,7 +82,7 @@
   - Currently learning more about **Vue3**, **Nuxt**, **System Design**, **Strapi**, and **AWS**
   - Looking to collaborate with other people
   - Currently coding in **Cebu City**
-  - You can reach me with the links below or you can visit my [website](https://jeash.tech)
+  - You can reach me with the links below or you can visit my <a href="https://jeash.tech" target="blank">website</a>
 
 </p>
 
