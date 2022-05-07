@@ -27,6 +27,9 @@
   />
 </p>
 
+<p>
+<!--START_SECTION:activity-->
+</p>
 
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31msfyo3gd5l5nrpjwky7jp7pdg4&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
