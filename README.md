@@ -27,16 +27,6 @@
   />
 </p>
 
-<p>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KarmaBlackshaw/portfolio/pull/2) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
-2. 🎉 Merged PR [#3](https://github.com/KarmaBlackshaw/portfolio/pull/3) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
-3. 🎉 Merged PR [#1](https://github.com/KarmaBlackshaw/portfolio/pull/1) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
-4. 🗣 Commented on [#10](https://github.com/ShanaMaid/sheetjs-style/issues/10) in [ShanaMaid/sheetjs-style](https://github.com/ShanaMaid/sheetjs-style)
-<!--END_SECTION:activity-->
-</p>
-
-
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31msfyo3gd5l5nrpjwky7jp7pdg4&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
   
   ---
