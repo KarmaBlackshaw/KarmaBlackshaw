@@ -40,6 +40,7 @@
   </a>
 </p>
 
+## Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/KarmaBlackshaw/portfolio/pull/2) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
 2. 🎉 Merged PR [#3](https://github.com/KarmaBlackshaw/portfolio/pull/3) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
