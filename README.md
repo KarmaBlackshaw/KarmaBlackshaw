@@ -40,6 +40,8 @@
   </a>
 </p>
 
+<!--START_SECTION:activity-->
+
 <p align="left">
   <h2>Projects</h2>
 
