@@ -30,6 +30,8 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31msfyo3gd5l5nrpjwky7jp7pdg4&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
   
 <p align="left">
+  <h2>Trophies</h2>
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=karmablackshaw&margin-w=5&theme=flat&no-frame=true"
