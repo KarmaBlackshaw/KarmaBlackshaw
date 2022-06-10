@@ -281,9 +281,6 @@
     src="https://github-readme-stats.vercel.app/api/wakatime?username=karmablackshaw&theme=onedark"
     alt="karmablackshaw"
   />
-  
-  <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 </p>
 
   
