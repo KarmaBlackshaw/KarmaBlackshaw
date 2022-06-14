@@ -42,7 +42,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KarmaBlackshaw/portfolio/pull/2) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
+1. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🎉 Merged PR [#3](https://github.com/KarmaBlackshaw/portfolio/pull/3) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
 3. 🎉 Merged PR [#1](https://github.com/KarmaBlackshaw/portfolio/pull/1) in [KarmaBlackshaw/portfolio](https://github.com/KarmaBlackshaw/portfolio)
 4. 🗣 Commented on [#10](https://github.com/ShanaMaid/sheetjs-style/issues/10) in [ShanaMaid/sheetjs-style](https://github.com/ShanaMaid/sheetjs-style)
