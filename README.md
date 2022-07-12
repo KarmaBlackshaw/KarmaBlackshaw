@@ -1,4 +1,4 @@
-<h2>Hello! I am Ernie Jeash 👋 Glad to see you here <img src="https://cdn3.emoji.gg/emojis/4029-pepepleased.png" width="32px" height="32px" alt="PepePleased"></h2>
+<h2>Glad to see you here! My name is Ernie Jeash <img src="https://cdn3.emoji.gg/emojis/4029-pepepleased.png" width="32px" height="32px" alt="PepePleased"></h2>
 
 <p align="left">
   <img
