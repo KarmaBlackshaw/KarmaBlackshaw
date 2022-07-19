@@ -42,10 +42,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
-2. ❗️ Opened issue [#436](https://github.com/antfu/unplugin-vue-components/issues/436) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
-3. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#10](https://github.com/ShanaMaid/sheetjs-style/issues/10) in [ShanaMaid/sheetjs-style](https://github.com/ShanaMaid/sheetjs-style)
+1. ❗️ Closed issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
+2. 🗣 Commented on [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
+3. ❗️ Opened issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
+4. ❗️ Opened issue [#436](https://github.com/antfu/unplugin-vue-components/issues/436) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
 <!--END_SECTION:activity-->
 
 <p align="left">
