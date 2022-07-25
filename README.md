@@ -42,10 +42,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
-2. 🗣 Commented on [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
-3. ❗️ Opened issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
-4. ❗️ Opened issue [#436](https://github.com/antfu/unplugin-vue-components/issues/436) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
+1. 🗣 Commented on [#625](https://github.com/egoist/tsup/issues/625) in [egoist/tsup](https://github.com/egoist/tsup)
+2. ❗️ Closed issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
+3. 🗣 Commented on [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
+4. ❗️ Opened issue [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
 <!--END_SECTION:activity-->
 
 <p align="left">
