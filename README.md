@@ -42,8 +42,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KarmaBlackshaw/vue-vite-boilerplate/pull/1) in [KarmaBlackshaw/vue-vite-boilerplate](https://github.com/KarmaBlackshaw/vue-vite-boilerplate)
-2. ❗️ Opened issue [#128](https://github.com/ilearnio/module-alias/issues/128) in [ilearnio/module-alias](https://github.com/ilearnio/module-alias)
+1. 🗣 Commented on [#2831](https://github.com/tailwindlabs/tailwindcss/issues/2831) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+2. 🎉 Merged PR [#1](https://github.com/KarmaBlackshaw/vue-vite-boilerplate/pull/1) in [KarmaBlackshaw/vue-vite-boilerplate](https://github.com/KarmaBlackshaw/vue-vite-boilerplate)
 3. 🗣 Commented on [#625](https://github.com/egoist/tsup/issues/625) in [egoist/tsup](https://github.com/egoist/tsup)
 4. 🗣 Commented on [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
 <!--END_SECTION:activity-->
