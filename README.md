@@ -69,9 +69,9 @@
       alt="karmablackshaw"
     />
   </a>
-  <a href="https://github.com/karmablackshaw/anade-photography">
+  <a href="https://github.com/KarmaBlackshaw/anade-photography-client">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=anade-photography&show_owner=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=anade-photography-client&show_owner=true"
       alt="karmablackshaw"
     />
   </a>
