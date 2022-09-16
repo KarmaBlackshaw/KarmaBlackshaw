@@ -92,7 +92,7 @@
   - Loves playing **Dota 2**
   - Enjoys reading **Manwha** (<small>_Return of Mount Hua Sect_ ❤</small>)
   - **Vue** and **Node** enthusiast
-  - Currently learning more about **Vue3**, **Nuxt**, **System Design**, **Strapi**, and **AWS**
+  - Currently learning more about **Vue3**, **Elasticsearch**, **DynamoDB**, **Serverless**
   - Looking to collaborate with other people
   - Currently coding in **Cebu City**
   - You can reach me with the links below or you can visit my <a href="https://jeash.tech" target="_blank">website</a>
