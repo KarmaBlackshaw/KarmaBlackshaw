@@ -54,37 +54,37 @@
   <a href="https://github.com/karmablackshaw/portfolio">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=portfolio&show_owner=true"
-      alt="karmablackshaw"
+      alt="Portfolio"
     />
   </a>
   <a href="https://github.com/karmablackshaw/repo=vue-auto-register-base-components">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=vue-auto-register-base-components&show_owner=true"
-      alt="karmablackshaw"
+      alt="Auto Register Base Components in Vue"
     />
   </a>
   <a href="https://github.com/karmablackshaw/deped-attendance-generator">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=deped-attendance-generator&show_owner=true"
-      alt="karmablackshaw"
+      alt="Deped Attendance Generator"
     />
   </a>
-  <a href="https://github.com/KarmaBlackshaw/anade-photography-client">
+  <a href="https://github.com/KarmaBlackshaw/case-generator">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=anade-photography-client&show_owner=true"
-      alt="karmablackshaw"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=case-generator&show_owner=true"
+      alt="Case Generator"
     />
   </a>
   <a href="https://github.com/karmablackshaw/2048">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=2048&show_owner=true&v=2"
-      alt="karmablackshaw"
+      alt="2048 Game"
     />
   </a>
   <a href="https://github.com/karmablackshaw/breakpoints">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=karmablackshaw&repo=breakpoints&show_owner=true&v=2"
-      alt="karmablackshaw"
+      alt="Breakpoints"
     />
   </a>
 </p>
