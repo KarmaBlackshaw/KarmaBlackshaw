@@ -14,10 +14,6 @@
     alt="wakatime"
   />
   <img
-    src="https://badges.pufler.dev/repos/karmablackshaw"
-    alt="visits"
-  />
-  <img
     src="https://img.shields.io/github/last-commit/karmablackshaw/KarmaBlackshaw"
     alt="last-commit"
   />
