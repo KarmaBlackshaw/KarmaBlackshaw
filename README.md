@@ -38,10 +38,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17831](https://github.com/highcharts/highcharts/issues/17831) in [highcharts/highcharts](https://github.com/highcharts/highcharts)
-2. 🗣 Commented on [#128](https://github.com/ilearnio/module-alias/issues/128) in [ilearnio/module-alias](https://github.com/ilearnio/module-alias)
-3. 🗣 Commented on [#2831](https://github.com/tailwindlabs/tailwindcss/issues/2831) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-4. 🗣 Commented on [#1](https://github.com/Mayerch1/RemindmeBot/issues/1) in [Mayerch1/RemindmeBot](https://github.com/Mayerch1/RemindmeBot)
+1. 🗣 Commented on [#2052](https://github.com/johnsoncodehk/volar/issues/2052) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+2. ❗️ Opened issue [#17831](https://github.com/highcharts/highcharts/issues/17831) in [highcharts/highcharts](https://github.com/highcharts/highcharts)
+3. 🗣 Commented on [#128](https://github.com/ilearnio/module-alias/issues/128) in [ilearnio/module-alias](https://github.com/ilearnio/module-alias)
+4. 🗣 Commented on [#2831](https://github.com/tailwindlabs/tailwindcss/issues/2831) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
 
 <p align="left">
