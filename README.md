@@ -96,6 +96,7 @@
   - Looking to collaborate with other people
   - Currently coding in **Cebu City**
   - You can reach me with the links below or you can visit my <a href="https://jeash.tech" target="_blank">website</a>
+  - A coffee for appreciation <a href="https://www.buymeacoffee.com/jeash" target="_blank">☕</a>
 
 </p>
 
