@@ -156,6 +156,15 @@
     />
   </a>
   &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.svgporn.com/logos/html-5.svg"
